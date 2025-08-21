@@ -15,7 +15,7 @@ public class TP2Ejercicio5 {
     /**
      * @param args the command line arguments
      */
-    @SuppressWarnings("empty-statement")
+
     public static void main(String[] args) {
         int num, suma = 0;
         Scanner input = new Scanner(System.in);
